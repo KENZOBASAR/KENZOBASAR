@@ -17,8 +17,9 @@ I am rating by-
 - 📗📗HTML - With Style
 - 📗📗📗Python - Tkinter and CLI
 - 📗Powershell - TUI
-📗📗 CSS - Styling
-📗 Assembly - Operating Systems
+- 📗📗 CSS - Styling
+- 📗 Assembly - Operating Systems
+- ... More
 ## 📜 Recent Projects
 - 💾 OSbbin
 - 📒 LKT
