@@ -8,6 +8,9 @@
 
 I am also a Senior Full-Stack Programmer That enjoys making **CLI Operating Systems** and **TUI/GUI Operating Enviroment**
 
+## 🧍‍♂️ Author of
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00325D&width=435&lines=KCR+SOFT)](https://git.io/typing-svg)
+
 ## 🖥 Languages learnt
 I am rating by-
 - 1 Book- Learnt recently
